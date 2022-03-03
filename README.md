@@ -14,7 +14,7 @@ pkg install python
 pip install requests
 pip install mechanize
 rm -rf Bypass
-git clone https://github.com/syedzada1100/Bypass.git
+git clone https://github.com/VirusMakerKingAsad/Bypass.git
 cd Bypass
 python Bypass.py
 
